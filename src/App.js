@@ -5,7 +5,7 @@ import { Document, Page } from 'react-pdf';
 class App extends React.Component {
 
   state = {
-    file: "/sampleDocument.pdf",
+    file: "/dummy1.pdf",
     numPages: 0,
     pageNumber: 1
   }
